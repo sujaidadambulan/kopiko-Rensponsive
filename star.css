@@ -1,0 +1,56 @@
+body{
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+.header{
+    font-family: "Playfair Display", serif;
+    color: rgb(153, 153, 153);
+    text-align: center;
+}
+.kopiko-head{
+    width: 100%;
+    font-weight: 400;
+    font-size: 50px;
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+.header p{
+    margin-top: 10px;
+    letter-spacing: 5px;
+}
+.col{
+    color:white ;
+}
+.navbar-nav{
+    border: none;
+    text-align: center;
+}
+.img{
+    width: 50px;
+    height: 33px;
+    padding: 0;
+    margin: -1px;
+}
+.container-fluid h4{
+    text-align: center;
+    color: rgb(153, 153, 153);
+    font-size: 22px;
+    font-weight: 500;
+    font-family: "Open Sans", sans-serif;
+    margin-top: 50px;
+}
+.menu{
+  color:white;
+  float: left;
+}
+.container-fluid h5{
+    color: rgb(153, 153, 153);
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+.text-white{
+    padding: 13px;
+}
+
